@@ -36,6 +36,15 @@ The developers are not responsible for any misuse of this tool. By using this so
 - Download history tracking
 - Progress monitoring with speed display
 
+<p align="center">
+  <img src="https://github.com/leonelpedroza/VideoDownloader/blob/main/screenshots/Screenshot1.png">
+  <img src="https://github.com/leonelpedroza/VideoDownloader/blob/main/screenshots/Screenshot2.png">
+  <img src="https://github.com/leonelpedroza/VideoDownloader/blob/main/screenshots/Screenshot3.png">
+</p>
+
+
+
+
 ## 📋 Requirements
 
 - Python 3.8 or higher
