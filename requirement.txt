@@ -1,0 +1,11 @@
+# Video Archiver Requirements
+# Python 3.8+ required
+
+# Core GUI framework
+PySide6>=6.5.0
+
+# Video download engine
+yt-dlp>=2023.7.6
+
+# Optional but recommended for better compatibility
+certifi>=2023.5.7
